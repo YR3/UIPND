@@ -1,19 +1,54 @@
-.card { border: 5px solid #d7c3a5; border-radius: 10px;
-  box-shadow: 15px 15px 10px 5px  #ffe4e1 ; padding: 5px; margin: auto;
-	width: 320px; background: linear-gradient(530deg, #140000, #720015); }
+.card {
+	border: 5px solid #d7c3a5;
+	border-radius: 10px;
+	box-shadow: 15px 15px 10px 5px #ffe4e1;
+	padding: 5px;
+	margin: auto;
+	width: 320px;
+	background: linear-gradient(530deg, #140000, #720015);
+}
 
-  .animal {	border: 1px solid #f8f8f6; border-radius: 10px; background: #fff; opacity: 0.5;}
+.animal {
+	border: 1px solid #f8f8f6;
+	border-radius: 10px;
+	background: #fff;
+	opacity: 0.5;
+}
 
-        .Img-Pad { padding: 10px; }
+.Img-Pad {
+	padding: 10px;
+}
 
-                    .Eagle { opacity: 0.8; border: 1px solid #200000;}
+.Eagle {
+	opacity: 0.8;
+	border: 1px solid #200000;
+}
 
-                          .Intresting { border: 1px solid #f8f8f6;border-radius:
-                             10px;background: #fff; opacity: 0.5; padding: 5px; }
+.Intresting {
+	border: 1px solid #f8f8f6;
+	border-radius: 10px;
+	background: #fff;
+	opacity: 0.5;
+	padding: 5px;
+}
 
-                                              .Fact {font-style: italic;}
+.Fact {
+	font-style: italic;
+}
 
-                                 h3 { padding: 0px 5px; }
-                                 ul { list-style-type: none; }
-                                 li span { font-weight: bold; }
-                                              .CopyRights { font-style: oblique; color: #fff}
+h3 {
+	padding: 0px 5px;
+}
+
+ul {
+	list-style-type: none;
+}
+
+li span {
+	font-weight: bold;
+}
+
+.CopyRights {
+	font-style: oblique;
+	color: #fff
+}
